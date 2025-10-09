@@ -169,14 +169,14 @@ document.addEventListener("DOMContentLoaded", () => {
    Open Order Link Function
 ============================== */
 function openOrderLink(url) { 
-   if (url) window.open(url, "_blank");
-  // if(url){
-  //   const a = document.createElement('a');
-  //       a.href = url;
-  //       a.target = '_blank';
-  //       a.rel = 'noopener noreferrer';
-  //       document.body.appendChild(a);
-  //       a.click();
-  //       document.body.removeChild(a);
-  // }
+   // if (url) window.open(url, "_blank");
+  if(url){
+    const a = document.createElement('a');
+        a.href = url;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+  }
 }
