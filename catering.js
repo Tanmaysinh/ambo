@@ -168,7 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
 /* ==============================
    Open Order Link Function
 ============================== */
-function openOrderLink(url) {
+function openOrderLink(url) { 
    if (url) window.open(url, "_blank");
   // if(url){
   //   const a = document.createElement('a');
