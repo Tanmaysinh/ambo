@@ -178,5 +178,7 @@ function openOrderLink(url) {
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);
+
+    // window.location.href = url;
   }
 }
