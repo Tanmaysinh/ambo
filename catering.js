@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "ecom_url": "https://www.amboeats.com/product/chicken-tikka-bowl/VF6ZWNNSKDZ6WIMBPZI7KKY2"
     },
     {
-      "name": "Chilli Paneer Bowl",
+      "name": "Chili Paneer Bowl",
       "variation": "Regular",
       "price_cents": 1599,
       "currency": "USD",
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "ecom_url": "https://www.amboeats.com/product/chilli-paneer-bowl/2WUYLCKCAIL4DJLMAT7YDKUD"
     },
     {
-      "name": "Chilli Shrimp Bowl",
+      "name": "Chili Shrimp Bowl",
       "variation": "Regular",
       "price_cents": 1799,
       "currency": "USD",
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "ecom_url": "https://www.amboeats.com/product/chilli-shrimp-bowl/4GUXZ4NX2MMNY4AZHORDTNBE"
     },
     {
-      "name": "Chilli Shrimp with Okra Plate",
+      "name": "Chili Shrimp with Okra Plate",
       "variation": "Regular",
       "price_cents": 1700,
       "currency": "USD",
