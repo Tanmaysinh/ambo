@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1599,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/66FIYKDXJSLWO7XUXHPPNLRH.jpeg?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/ZRONBZNX6K5VUOOJEJ7JH6IV.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/chicken-tikka-bowl/VF6ZWNNSKDZ6WIMBPZI7KKY2"
     },
     {
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1599,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/XOLKDS4DMPPYN4HWOJPCUHHP.jpeg?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/XEWK7USCUMHNHZUF3R3GXB5K.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/chilli-paneer-bowl/2WUYLCKCAIL4DJLMAT7YDKUD"
     },
     {
@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1799,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/HMXYVDWQPPSKLDKYP7M4B7AR.jpeg?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/ZLBY7GQAP57AYPF4ZMR6YWRL.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/chilli-shrimp-bowl/4GUXZ4NX2MMNY4AZHORDTNBE"
     },
     {
@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1700,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/GAMQ2VFWL3OLFZGOCZGFRHUR.jpeg?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/SBSSSHXRAQJVPC2EFLFKHZHD.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/chilli-shrimp-with-okra-plate/AT4OG2K7C5VUSFZWNT2RRL7A"
     },
     {
@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1599,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/ZN5EUYJ4N7A6227LTBKOHDPC.jpeg?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/TKKB2BBRRGID6IFSAMDX2ZY5.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/veggie-plate/K2PWM7FOGF2W4M2BOZ3XNBRD"
     },
     {
@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1499,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/QIROC2W7LUT5SNMHSWPLHLRG.jpeg?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/LYV722LS6AVESUPSHS4PH6CY.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/paneer-tikka-masala-with-chickpeas-plate/J4PZB63L7JO4ADB7ZD7L25QM"
     },
     {
@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1499,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/M2232UZMD63I6QL52KMSEO5R.jpeg?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/X4GM7BNZ4Z3VAZWSUHIL475L.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/chicken-tikka-masala-with-okra-plate/PLACEHOLDER"
     },
     {
@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1499,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/WXAKIXWDZKY53ANGWR6CDWCS.jpeg?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/EGFRRVAHDTZZG7JMMZDZDGUV.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/chicken-tikka-masala-with-cauliflower-plate/PLACEHOLDER"
     },
     {
@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1499,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/U7I766YYSKEDXFAGEPUNZNOO.jpeg?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/ITUVIVSN2HXJMJLSBFLAN3WB.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/low-carb-chicken-tikka-with-cauliflower-plate/PLACEHOLDER"
     },
     {
@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1499,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/U7G7LBDXPKXBHN26KW25NEDO.jpeg?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/IEK47UDNBPER24NS3FM7PB2S.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/chicken-tikka-masala-with-chickpeas-plate/PLACEHOLDER"
     }
   ];
