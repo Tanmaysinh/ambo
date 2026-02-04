@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1599,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/ZRONBZNX6K5VUOOJEJ7JH6IV.png?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/GJZVJ3B2SXCGZ32D572L5JNR.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/chicken-tikka-bowl/VF6ZWNNSKDZ6WIMBPZI7KKY2"
     },
     {
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1599,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/XEWK7USCUMHNHZUF3R3GXB5K.png?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/BTKKASM7PXOFDDDJO7RUWW2V.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/chilli-paneer-bowl/2WUYLCKCAIL4DJLMAT7YDKUD"
     },
     {
@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "variation": "Regular",
       "price_cents": 1799,
       "currency": "USD",
-      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/ZLBY7GQAP57AYPF4ZMR6YWRL.png?width=2400&optimize=medium",
+      "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/MAIJLYFHZUZ6TEYZPTTUJOWM.png?width=2400&optimize=medium",
       "ecom_url": "https://www.amboeats.com/product/chilli-shrimp-bowl/4GUXZ4NX2MMNY4AZHORDTNBE"
     },
     {
