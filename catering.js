@@ -21,36 +21,36 @@ document.addEventListener("DOMContentLoaded", () => {
   ============================== */
   const items = [
     {
-      "name": "Chicken Tikka Bowl",
+      "name": "Chicken Tikka Salad Bowl",
       "variation": "Regular",
       "price_cents": 1699,
       "currency": "USD",
       "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/GJZVJ3B2SXCGZ32D572L5JNR.png?width=2400&optimize=medium",
-      "ecom_url": "https://www.amboeats.com/product/chicken-tikka-bowl/VF6ZWNNSKDZ6WIMBPZI7KKY2"
+      "ecom_url": "https://www.amboeats.com/product/chicken-tikka-salad-bowl/VF6ZWNNSKDZ6WIMBPZI7KKY2"
     },
     {
-      "name": "Chili Paneer Bowl",
+      "name": "Chili Paneer Salad Bowl",
       "variation": "Regular",
       "price_cents": 1699,
       "currency": "USD",
       "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/BTKKASM7PXOFDDDJO7RUWW2V.png?width=2400&optimize=medium",
-      "ecom_url": "https://www.amboeats.com/product/chilli-paneer-bowl/2WUYLCKCAIL4DJLMAT7YDKUD"
+      "ecom_url": "https://www.amboeats.com/product/chilli-paneer-salad-bowl/2WUYLCKCAIL4DJLMAT7YDKUD"
     },
     {
-      "name": "Chili Shrimp Bowl",
+      "name": "Chili Shrimp Salad Bowl",
       "variation": "Regular",
       "price_cents": 1850,
       "currency": "USD",
       "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/MAIJLYFHZUZ6TEYZPTTUJOWM.png?width=2400&optimize=medium",
-      "ecom_url": "https://www.amboeats.com/product/chilli-shrimp-bowl/4GUXZ4NX2MMNY4AZHORDTNBE"
+      "ecom_url": "https://www.amboeats.com/product/chilli-shrimp-salad-bowl/4GUXZ4NX2MMNY4AZHORDTNBE"
     },
     {
-      "name": "Palak Tofu Bowl",
+      "name": "Palak Tofu Salad Bowl",
       "variation": "Regular",
       "price_cents": 1699,
       "currency": "USD",
       "image_url": "https://132496695.cdn6.editmysite.com/uploads/1/3/2/4/132496695/XUBYUKKQKSTMADNOXOO5ECEU.jpeg?width=2400&optimize=medium",
-      "ecom_url": "https://www.amboeats.com/product/palak-tofu-bowl/MCLJSKQTIYJCTAFJJSAHWHMV"
+      "ecom_url": "https://www.amboeats.com/product/palak-tofu-salad-bowl/MCLJSKQTIYJCTAFJJSAHWHMV"
     },
     {
       "name": "Chili Shrimp with Okra Plate",
